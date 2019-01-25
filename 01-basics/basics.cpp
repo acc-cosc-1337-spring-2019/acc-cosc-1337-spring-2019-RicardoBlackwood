@@ -6,5 +6,6 @@ int sum_numbers(int num1, int num2)
 }
 
 //write code for multiply_numbers function here
+return num1 * num2
 
 

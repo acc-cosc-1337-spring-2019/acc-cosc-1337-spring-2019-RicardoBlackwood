@@ -12,7 +12,7 @@ double get_gc_content(const std::string& dna)
 
 	for (auto d : dna)
 	{
-		(if d == 'G' || d == 'C')
+		if (d == 'G' || d == 'C')
 		{
 
 		}

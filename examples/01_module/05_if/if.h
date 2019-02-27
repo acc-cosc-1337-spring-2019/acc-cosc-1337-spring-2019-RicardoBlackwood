@@ -7,5 +7,3 @@ bool is_even(int num);
 // and returns a bool type
 bool overtime(double hours);
 
-
-

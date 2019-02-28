@@ -58,6 +58,9 @@ bool TicTacToe::check_column_win()
 	}
 	return false;
 }
+
+bool TicTacToe::check_column_win()
+
 /*
 Win by row if 
 0, 1, 2 are equal
